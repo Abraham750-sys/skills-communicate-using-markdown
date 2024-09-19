@@ -8,3 +8,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/skills-communicate-using-markdown
 /.git/
 ```
+
+- [x] Create my task list
+- [x] Commit Changes
+- [ ] Save the index file
